@@ -48,6 +48,24 @@
   <br/><br/><br/>
 </div>
 
+<a href="https://github.com/TheKunalBose/Jarrvis">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Jarrvis&show_icons=true&theme=tokyonight&hide_border=true">
+  </a>
+  
+   <a href="https://github.com/TheKunalBose/Credit Card Fraud Detector">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Credit-Card-Fraud-Detector&show_icons=true&theme=tokyonight&hide_border=true" >
+  </a>
+
+  
+  <a href="https://github.com/TheKunalBose/Gitreverb">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" >
+  </a>
+
+
+  <a href="https://github.com/rpj09/ASMT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=ASMT&show_icons=true&theme=tokyonight&hide_border=true" >
+  </a>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
