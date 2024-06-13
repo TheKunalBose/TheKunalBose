@@ -1,7 +1,7 @@
-img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheKunalBose.TheKunalBose" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal+Bose!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
@@ -10,9 +10,9 @@ img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.sa
 
 <div align="center">
  
- 🔭 I’m currently pursuing Bachelors in Computer Science & Technology **
+ 🔭 I’m currently pursuing Bachelors in Computer Science Engineering 
  
- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, AWS**
+ 🌱 I’m currently learning **Docker, Jenkins, Kubernetes, AWS**
 
  </div>
  
@@ -20,7 +20,7 @@ img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.sa
   <a href="mailto:kbose0204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/kunal-bose-b5b2aa249/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/kunal-bose-b5b2aa249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
@@ -34,7 +34,7 @@ img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.sa
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,java,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@ img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.sa
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheKunalBose/TheKunalBose/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
