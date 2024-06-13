@@ -47,7 +47,8 @@
   
   <br/><br/><br/>
 </div>
-
+<div align="center">
+    <h2>⌅ Pinned Repositeries ⌅</h2>
 <a href="https://github.com/TheKunalBose/Jarrvis">
     <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Jarrvis&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
