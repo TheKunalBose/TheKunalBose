@@ -1,14 +1,14 @@
 name: Generate Snake
 
-# This controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # Runs every 6 hours
+    # Run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # Grants access to read and write repository contents
+  actions: write   # Grants permission to perform actions such as pushing changes
 
 jobs:
   build:
@@ -20,12 +20,12 @@ jobs:
 
       # Step 2: Generate the snake gif
       - name: Generate Snake GIF
-        uses: Platane/snk@v3.0.0  # Use the latest stable version
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: TheKunalBose  # Replace with your GitHub username
 
-      # Step 3: Check if the files are generated
-      - name: List generated files (optional, for debugging)
+      # Step 3: Check if the files are generated (optional)
+      - name: List generated files (optional for debugging)
         run: ls -l
 
       # Step 4: Commit and push the generated files to the output branch
