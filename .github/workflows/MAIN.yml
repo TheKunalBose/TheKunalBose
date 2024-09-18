@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,14 +18,22 @@ jobs:
       - name: Create output directory if not exists
         run: mkdir -p dist
 
-      - uses: Platane/snk@main
+      - name: Generate Snake
+        uses: Platane/snk@v2.1.0
         id: snake-gif
         with:
           github_user_name: TheKunalBose
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Check generated files
+        run: ls -l dist
+
       - run: git status
+
+      - name: Create output branch if not exists
+        run: |
+          git checkout -b output || git checkout output
 
       - name: Push changes
         uses: ad-m/github-push-action@master
