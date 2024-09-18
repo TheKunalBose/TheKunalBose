@@ -15,19 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Create output directory if not exists
-        run: mkdir -p dist
-
-      - name: Generate Snake
-        uses: Platane/snk@v2.1.0
+      # Generate the snake gif
+      - uses: Platane/snk@v2.1.0
         id: snake-gif
         with:
           github_user_name: TheKunalBose
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Check generated files (optional for debugging)
       - name: Check generated files
-        run: ls -l dist
+        run: ls -l
 
       - run: git status
 
