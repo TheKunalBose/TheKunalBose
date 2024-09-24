@@ -12,7 +12,7 @@
  
  🔭 I’m currently pursuing Bachelors in Computer Science Engineering 
  
- 🌱 I’m currently learning **Docker, Jenkins, Kubernetes, AWS**
+ 🌱 I’m currently learning **Jenkins, Kubernetes, AWS**
 
  </div>
  
