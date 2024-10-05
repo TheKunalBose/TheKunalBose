@@ -48,8 +48,8 @@
 </div>
 <div align="center">
     <h2>⌅ Pinned Repositeries ⌅</h2>
-<a href="https://github.com/TheKunalBose/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=portfolio&show_icons=true&theme=tokyonight&hide_border=true" >
+<a href="https://github.com/TheKunalBose/PortfolioWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=PortfolioWeb&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
   <a href="https://github.com/TheKunalBose/Jarrvis">
@@ -66,8 +66,8 @@
   </a>
 
 
-  <a href="https://github.com/TheKunalBose/ASMT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=ASMT&show_icons=true&theme=tokyonight&hide_border=true" >
+  <a href="https://github.com/TheKunalBose/AssetManagement_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=AssetManagement_System&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
 <hr/>
