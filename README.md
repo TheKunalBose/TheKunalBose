@@ -66,8 +66,8 @@
   </a>
 
 
-  <a href="https://github.com/TheKunalBose/AssetManagement_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=AssetManagement_System&show_icons=true&theme=tokyonight&hide_border=true" >
+  <a href="https://github.com/TheKunalBose/Shoppy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=Shoppy&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
 <hr/>
