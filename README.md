@@ -48,8 +48,8 @@
 </div>
 <div align="center">
     <h2>⌅ Pinned Repositeries ⌅</h2>
-<a href="https://github.com/TheKunalBose/PortfolioWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=PortfolioWeb&show_icons=true&theme=tokyonight&hide_border=true" >
+<a href="https://github.com/TheKunalBose/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
   <a href="https://github.com/TheKunalBose/Jarrvis">
