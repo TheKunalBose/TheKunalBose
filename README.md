@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
-  <a href="https://github.com/TheKunalBose/Jarrvis">
+  <a href="https://github.com/TheKunalBose/StackForge">
     <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Jarrvis&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
   
@@ -60,7 +60,7 @@
   </a>
 
   
-  <a href="https://github.com/TheKunalBose/Gitreverb">
+  <a href="https://github.com/TheKunalBose/Terraform-CI-CD-Pipeline-Azure">
     <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
