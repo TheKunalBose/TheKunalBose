@@ -65,7 +65,7 @@
   </a>
 
 
-  <a href="https://github.com/TheKunalBose/Shoppy">
+  <a href="https://github.com/TheKunalBose/Shoppy_dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=Shoppy&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
