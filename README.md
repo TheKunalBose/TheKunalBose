@@ -61,7 +61,7 @@
 
   
   <a href="https://github.com/TheKunalBose/Terraform-CI-CD-Pipeline-Azure">
-    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" >
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Terraform-CI-CD-Pipeline-Azure&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
 <hr/>
