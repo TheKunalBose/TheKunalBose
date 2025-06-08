@@ -47,8 +47,8 @@
 </div>
 <div align="center">
     <h2>⌅ Pinned Repositeries ⌅</h2>
-<a href="https://github.com/TheKunalBose/StackForge-k8s-Deployement">
-    <img src="https://github.com/TheKunalBose/StackForge-k8s-Deployement&show_icons=true&theme=tokyonight&hide_border=true" >
+ <a href="https://github.com/TheKunalBose/StackForge-k8s-Deployement">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=StackForge-k8s-Deployement&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
 
   <a href="https://github.com/TheKunalBose/StackForge-Terraform-Infra">
