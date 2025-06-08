@@ -47,12 +47,12 @@
 </div>
 <div align="center">
     <h2>⌅ Pinned Repositeries ⌅</h2>
-<a href="https://github.com/TheKunalBose/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKunalBose&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" >
+<a href="https://github.com/TheKunalBose/StackForge-k8s-Deployement">
+    <img src="https://github.com/TheKunalBose/StackForge-k8s-Deployement&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
 
-  <a href="https://github.com/TheKunalBose/StackForge">
-    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=Jarrvis&show_icons=true&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/TheKunalBose/StackForge-Terraform-Infra">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=TheKunalBose&repo=StackForge-Terraform-Infra&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
   
    <a href="https://github.com/TheKunalBose/AWS-Architechure-MultiRegion">
